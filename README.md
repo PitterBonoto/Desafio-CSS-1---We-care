@@ -13,7 +13,7 @@
 <h4>A ilustração mostra a responsividade do projeto, ou seja, como o mesmo se adapta ao desktop ou mobile.</h4>
 <br>
 
-<img align="left" src="" width="50px">
+<img align="left" src="https://github.com/PitterBonoto/We-care/blob/main/We%20care%20-%20Desktop.png?raw=true" width="50px">
 <img align="left" src="" width="50px">
 
 
