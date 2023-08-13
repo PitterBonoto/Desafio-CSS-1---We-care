@@ -13,9 +13,9 @@ header {
 
 .link-header {
     color: #989D9C;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 600;
-    margin-right: 23px;
+    margin-right: 18px;
     cursor: pointer;
     line-height: 29px;
 }
@@ -32,11 +32,11 @@ header {
 .button-header {
     border-radius: 20.5px;
     background: #665AE1;
-    width: 130px;
-    height: 41px;
+    width: 100px;
+    height: 30px;
     border: none;
     color: #FFFFFF;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 600;
     line-height: 29px;
     cursor: pointer;
@@ -53,8 +53,7 @@ header {
 
 
 .img-main {
-    width: 568px;
-    height: 500px;
+    width: 450px;
     margin-left: 125px;
     display: inline-block;
 }
@@ -67,33 +66,33 @@ section {
 
 h1 {
     color: #515151;
-    font-size: 100px;
+    font-size: 80px;
     font-weight: 900;
 }
 
 h2 {
     color: #515151;
-    font-size: 58px;
+    font-size: 48px;
     font-weight: 500;
 }
 
 p {
     width: 515px;
     color: #848484;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 400;
     margin-top: 32px;
-    margin-bottom: 65px;
+    margin-bottom: 40px;
 }
 
 .button-main {
-    width: 239px;
-    height: 64px;
+    width: 191px;
+    height: 51px;
     background: #ADFF00;
     border-radius: 30px;
     border: none;
     color: #000;
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 700;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     cursor: pointer;
@@ -113,7 +112,7 @@ p {
 
 
 
-@media screen and (max-width: 1302px) {
+@media screen and (max-width: 1180px) {
 
     * {
         margin: 0;
@@ -132,7 +131,7 @@ p {
 
 
 
-@media screen and (max-width: 1180px) {
+@media screen and (max-width: 1065px) {
 
     header {
         display: none;
